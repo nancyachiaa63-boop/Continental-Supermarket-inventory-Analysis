@@ -33,6 +33,8 @@ The project uses four inventory datasets:
 - Product Catalog 
 
 - ## Link https://github.com/nancyachiaa63-boop/Continental-Supermarket-inventory-Analysis/tree/main
+-## Screenshot of dashboard <img width="840" height="393" alt="Screenshot 2026-08-03 124559" src="https://github.com/user-attachments/assets/17568996-5ce2-45d8-b5d7-fb6b170d5af0" />
+
 
 ## 💡 Business Recommendations
 - Prioritize restocking products classified as **Re-stock Now**.
